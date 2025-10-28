@@ -1,7 +1,5 @@
 import P1 from "./../assets/Project/p1.jpg";
 import P2 from "./../assets/Project/p2.jpg";
-import P3 from "./../assets/Project/p3.jpg";
-import P4 from "./../assets/Project/p4.jpg";
 import P5 from "./../assets/Project/p5.jpg";
 import P6 from "./../assets/Project/p6.jpg";
 import P7 from "./../assets/Project/p7.jpg";
@@ -35,6 +33,7 @@ export const Project = [
     img: P8,
     list: [
       "Elegant and luxury-inspired UI matching Armaf's brand style.",
+      "Apply lazy loading and skeleton with framer motion animation.",
       "Fully responsive design for mobile, tablet, and desktop.",
       "Reusable components for products, categories, and banners.",
       "Optimized navigation and product display for a smooth shopping experience.",
@@ -56,6 +55,7 @@ export const Project = [
     img: P1,
     list: [
       "Full-featured e-commerce Single Page Application (SPA) built with React.js",
+      "Apply lazy loading and skeleton with framer motion animation.",
       "Add to Cart, Wishlist, Checkout, and Online Payment functionality included",
       "User Dashboard with order history, profile settings, and login/logout support",
       "Product filtering, sorting, and image preview for a seamless shopping experience",
@@ -78,6 +78,7 @@ export const Project = [
     img: P2,
     list: [
       "Interactive café menu website built with React.js and TailwindCSS",
+      "Apply the project with AOS animation.",
       "Allows users to browse food and drink items by category",
       "Responsive layout with modern UI",
       "Integrated React Slick slider for featured menu items or promotions",

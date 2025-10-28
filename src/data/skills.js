@@ -63,7 +63,7 @@ export const skills = [
       {
         img: js,
         name: "JavaScript",
-        objectcontain: false,
+        objectcontain: true,
       },
       {
         img: ts,

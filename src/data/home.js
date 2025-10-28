@@ -7,7 +7,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 export const social = [
-  { icon: faGithub, path: "https://github.com/Kimsor1111", color: "white" },
+  { icon: faGithub, path: "https://github.com/Ang-Kimsor", color: "white" },
   {
     icon: faLinkedin,
     path: "https://www.linkedin.com/in/kim-sor-0237282b9?trk=contact-info",
