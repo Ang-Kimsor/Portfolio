@@ -149,7 +149,7 @@ export const Project = [
     ],
     github: "https://github.com/Kimsor1111/LEGO",
     live: "https://lego-wheat.vercel.app/",
-    technologies: ["HTML", "CSS", "JavaScript", "TailwindCSS", "SwiperJS"],
+    technologies: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
   },
   {
     title: "Playstation",
