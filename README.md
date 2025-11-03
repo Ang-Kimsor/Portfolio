@@ -14,7 +14,7 @@ Call Me: +85587932289
 
 Telegram: [https://t.me/Thirtieth_October](https://t.me/Thirtieth_October)
 
-GitHub: [https://github.com/Kimsor1111](https://github.com/Kimsor1111)
+GitHub: [https://github.com/Ang-Kimsor](https://github.com/Ang-Kimsor)
 
 Facebook: [https://web.facebook.com/sor.scorpio](https://web.facebook.com/sor.scorpio?mibextid=wwXIfr&rdid=aIHJ5mVe1vtiKBW0&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F17618FLYKg%2F%3Fmibextid%3DwwXIfr%26_rdc%3D1%26_rdr#)
 
@@ -23,4 +23,5 @@ Instagram: [https://www.instagram.com/scorpio_thirtieth](https://www.instagram.c
 LinkedIn: [https://www.linkedin.com/in/Kimsor](https://www.linkedin.com/in/kim-sor-0237282b9/)
 
 Upwork: [https://www.upwork.com/freelancers/Kimsor](https://www.upwork.com/freelancers/~0133b1ba089ed8cd3b)
+
 
