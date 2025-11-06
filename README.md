@@ -20,8 +20,7 @@ Facebook: [https://web.facebook.com/sor.scorpio](https://web.facebook.com/sor.sc
 
 Instagram: [https://www.instagram.com/scorpio_thirtieth](https://www.instagram.com/scorpio_thirtieth/?igsh=MWFmendhemswdjV6MA%3D%3D&utm_source=qr#)
 
-LinkedIn: [https://www.linkedin.com/in/Kimsor](https://www.linkedin.com/in/kim-sor-0237282b9/)
+LinkedIn: [https://www.linkedin.com/in/Kimsor](https://www.linkedin.com/in/ang-kimsor-0237282b9/)
 
-Upwork: [https://www.upwork.com/freelancers/Kimsor](https://www.upwork.com/freelancers/~0133b1ba089ed8cd3b)
 
 
