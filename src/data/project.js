@@ -16,7 +16,7 @@ export const Project = [
       "Collaborated in a team of 3 members to plan, design, and develop the site",
     ],
     github: "https://github.com/Kimsor1111/PteasDecor",
-    live: "https://pteasdecor.netlify.app/",
+    live: "https://pteasdecor.vercel.app/",
     technologies: [
       "HTML",
       "CSS",
